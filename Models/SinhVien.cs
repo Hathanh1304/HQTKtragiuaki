@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace tvt_baikemtragiuaki.Models
+namespace baiktragiuaki.Models
 {
     using System;
     using System.Collections.Generic;
